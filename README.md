@@ -1,4 +1,3 @@
-
 # ![Akan Names website]( https://kiptoo-097.github.io/Akan-names-website/)
 # Akan Names Website
 <table>
