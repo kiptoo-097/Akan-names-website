@@ -1,6 +1,6 @@
 Copyright (c) [Kiptoo Kennedy]( https:// https://kiptoo-097.github.io/Akan-names-website/) <kiptoo097@gmail.com>
 
-Project Url:  https://kiptoo-097.github.io/Portfolio-Landing-Page
+Project Url:   https://kiptoo-097.github.io/Akan-names-website/
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
