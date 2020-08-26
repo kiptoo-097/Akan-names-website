@@ -1,4 +1,4 @@
-Copyright (c) [Kiptoo Kennedy]( https://kiptoo-097.github.io/Portfolio-Landing-Page) <kiptoo097@gmail.com>
+Copyright (c) [Kiptoo Kennedy]( https:// https://kiptoo-097.github.io/Akan-names-website/) <kiptoo097@gmail.com>
 
 Project Url:  https://kiptoo-097.github.io/Portfolio-Landing-Page
 
